@@ -1,2 +1,1 @@
-$'\sqrt{2}'$
-$\sqrt{2}$
+<pre xml:lang="latex">\sqrt{2}</pre>
